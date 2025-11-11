@@ -18,6 +18,3 @@ go.work.sum
 
 /tmp/
 *.log
-
-raftd
-raftctl
